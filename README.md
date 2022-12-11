@@ -12,4 +12,4 @@ Contains code for Atul's personal webiste.
 Link - [atulrajput.me](http://atulrajput.me/)
 
 ### Preview
-![Screenshot from 2022-08-23 22-49-21](file:///home/atul/Pictures/portscreen.png)
+[](file:///home/atul/Pictures/portscreen.png)
