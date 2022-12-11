@@ -2,7 +2,7 @@
 
 Contains code for Atul's personal webiste.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Atul Rajput/Atul Rajput.github.io)
+
 
 ### Tech Stacks
 - HTML
