@@ -9,7 +9,7 @@ Contains code for Atul's personal webiste.
 - CSS
 
 ### Live
-### Link - [pradumnasaraf.co](https://Atul Rajput.co/)
+Link - [atulrajput.me](http://atulrajput.me/)
 
 ### Preview
 ![Screenshot from 2022-08-23 22-49-21](file:///home/atul/Pictures/portscreen.png)
