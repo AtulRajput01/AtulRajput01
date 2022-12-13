@@ -11,5 +11,7 @@ Contains code for Atul's personal webiste.
 ### Live
 Link - [atulrajput.me](http://atulrajput.me/)
 
+
 ### Preview
-[](https://github.com/AtulRajput01/Atulrajput01.github.io/blob/main/port/portscreen.png)
+![Screenshot from 2022-08-23 22-49-21](https://github.com/AtulRajput01/Atulrajput01.github.io/blob/main/port/portscreen.png)
+
