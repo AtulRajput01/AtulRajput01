@@ -12,4 +12,4 @@ Contains code for Atul's personal webiste.
 Link - [atulrajput.me](http://atulrajput.me/)
 
 ### Preview
-[](file:///home/atul/Pictures/portscreen.png)
+[](https://github.com/AtulRajput01/Atulrajput01.github.io/blob/main/port/portscreen.png)
